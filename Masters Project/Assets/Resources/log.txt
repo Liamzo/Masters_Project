@@ -1,0 +1,4 @@
+Floor: 1 TotalPower: 500 SelfPower: 400 EquipmentPower: 100 ItemPower: 0 Skill: 1000 Enemy Power: 2100 Level Items: 1200 Length: 5 EPI: 500 API: 0
+Final Skill: -500
+Floor: 1 TotalPower: 500 SelfPower: 400 EquipmentPower: 100 ItemPower: 0 Skill: 1000 Enemy Power: 2100 Level Items: 1100 Length: 5 EPI: 500 API: 0
+Final Skill: -500
